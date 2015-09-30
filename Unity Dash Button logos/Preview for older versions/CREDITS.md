@@ -14,8 +14,8 @@ Icon Sources and their licenses
 
 
 [preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Dash%20Button%20logos%20v0.2%20Preview.jpg "Dash Button logos v0.2 Preview"
-[protopreview2]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 2"
-[protopreview1]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 1"
+[protopreview2]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%202.jpg "Prototype Preview 2"
+[protopreview1]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%201.jpg "Prototype Preview 1"
 [protopreview0]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 0"
 [moka-logo]: https://github.com/moka-project/moka-icon-theme/blob/master/src/M/moka.svg "Moka Logo's source svg file"
 [moka-icon-pack]: http://snwh.org/moka/ "Moka Project's homepage"

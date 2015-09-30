@@ -3,7 +3,7 @@
 Backgrounds, Display Frame and Titles
 -------------------------------------
 - Suru Background and Suru Portrait derived from `/usr/share/backgrounds/warty-final-ubuntu.png` in **Ubuntu 14.04LTS**'s [Wallpapers package][wallpapers] licensed under [CC BY-SA 3.0][CC-BY-SA3]
-- Ubuntu Display derived from [Thunderbolt Display][thunderbolt-display] by [Francisco "bokehlicia" Villarroel ][bokehlicia] licensed under [CC BY 4.0][CC-BY]
+- Ubuntu Display derived from [Thunderbolt Display][thunderbolt-display] by [Francisco "bokehlicia" Villarroel][bokehlicia] licensed under [CC BY 4.0][CC-BY]
 - [Unity Logo][unity-logo] is © [Canonical Ltd.][canonical-website]
 
 Icons in the Launcher
