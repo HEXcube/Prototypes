@@ -1,9 +1,12 @@
-[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube]
+Preview for Unity Dash Button logos v0.5
+========================================
+[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube] isn't an original creation, but derived from the works of many artists and designers. Given below are the sources, creators and licenses of the various artworks used for creating this preview image.
 
 Backgrounds, Display Frame and Titles
 -------------------------------------
 - Suru Background and Suru Portrait derived from `/usr/share/backgrounds/warty-final-ubuntu.png` in **Ubuntu 14.04LTS**'s [Wallpapers package][wallpapers] licensed under [CC BY-SA 3.0][CC-BY-SA3]
 - Ubuntu Display derived from [Thunderbolt Display][thunderbolt-display] by [Francisco "bokehlicia" Villarroel][bokehlicia] licensed under [CC BY 4.0][CC-BY]
+- Ubuntu Logo White used in the display bezel is modified from [Ubuntu Circle of Friends Orange][ubuntu-logo-orange] on [Ubuntu Design website][ubuntu-design-logos], used under the terms of [Canonical's IPRights Policy][IPpolicy]
 - [Unity Logo][unity-logo] is © [Canonical Ltd.][canonical-website]
 
 Icons in the Launcher
@@ -19,7 +22,7 @@ Icons in the Launcher Clippings
 -------------------------------
 - Nitrux Logo from `Nitrux/apps/48/nitrux-store.svg` in [Nitrux icon pack][nitrux-icon-pack] v3.5.3 by [Nitrux S.A.][nitrux] licensed under [CC BY-NC-ND 4.0][CC-BY-NC-ND]
 - [Numix Logo][numix-logo] by [Numix Project][numixproject]
-- Ubuntu Logo White modified from [Ubuntu Circle of Friends Orange][ubuntu-logo-orange] on [Ubuntu Design website][ubuntu-design-logos], used under the terms of [Canonical's IPRights Policy][IPpolicy]
+- Tux Logo Flat derived from [Linux 2014 Logo][linux-logo-0rax0] by [Reda "0rAX0" Lazri][0rax0] licensed under [CC BY-SA 3.0][CC-BY-SA3]
 - [Ubuntu Logo Numix Circle][ubuntu-logo-numix] from [Numix Circle icon pack][circle-icon-pack] by [Numix Project][numixproject] licensed under [GPLv3][GPL]
 - Ubuntu Precise Pangolin icon derived from [Pangolin plain logo][precise-pangolin], © [Canonical Ltd.][canonical-website] licensed under [CC BY-SA 3.0][CC-BY-SA3]
 - [App Launcher Numix uTouch][app-launcher-utouch] from [Numix uTouch icon pack][utouch-icon-pack] by [Numix Project][numixproject] licensed under [GPLv3][GPL]
@@ -45,6 +48,8 @@ Ubuntu trademark and logos
 [preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20v0.5/Dash%20Button%20logos%20v0.5%20Preview.svg "Dash Button logos v0.5 Preview"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
 [thunderbolt-display]: https://bokehlicia.deviantart.com/art/Thunderbolt-Display-SVG-470414571 "Thunderbolt Display on DeviantArt"
+[ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"
+[ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 [unity-logo]: https://en.wikipedia.org/wiki/File:Unity_logo.svg "Unity Logo on Wikipedia"
 [unity-core-package]: http://packages.ubuntu.com/trusty/libunity-core-6.0-9 "Unity's core assets package"
 [unity-logo-0rax0]: https://0rax0.deviantart.com/art/Logo-Ubuntu-Unity-unofficial-309976677 "Unofficial Unity Logo by 0rAX0"
@@ -54,8 +59,7 @@ Ubuntu trademark and logos
 [libreoffice-icons]: https://wiki.documentfoundation.org/File:LibreOffice_Initial_Icons-pre_final.svg "LibreOffice 3.x Initial icons sheet"
 [nitrux-icon-pack]: https://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
 [numix-logo]: https://github.com/numixproject/numix-assets/blob/master/numix-logo.svg "Numix Logo's source svg file"
-[ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"
-[ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
+[linux-logo-0rax0]: https://0rax0.deviantart.com/art/Linux-2014-Logo-457151181 "Linux 2014 Logo by Reda Lazri"
 [ubuntu-logo-numix]: https://github.com/numixproject/numix-icon-theme-circle/blob/master/Numix-Circle/48x48/apps/distributor-logo-ubuntu.svg "Ubuntu logo in Numix Circle"
 [circle-icon-pack]: https://me4oslav.deviantart.com/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466 "Numix Circle icon pack on DeviantArt"
 [precise-pangolin]: https://wiki.ubuntu.com/Artwork/Incoming/Precise "Precise Pangolin logo on Ubuntu Wiki"
