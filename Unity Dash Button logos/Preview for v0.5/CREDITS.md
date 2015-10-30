@@ -1,6 +1,6 @@
 Preview for Unity Dash Button logos v0.5
 ========================================
-[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube] isn't an original creation, but derived from the works of many artists and designers. Given below are the sources, creators and licenses of the various artworks used for creating this preview image.
+[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube] isn't an original creation, but derived from the works of many artists and designers. The source, creator and license of each artwork used for creating this preview image are listed below.
 
 Backgrounds, Display Frame and Titles
 -------------------------------------
