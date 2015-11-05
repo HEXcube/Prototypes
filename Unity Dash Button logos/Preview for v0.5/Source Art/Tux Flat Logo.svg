@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="705.09" width="705.09" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Tux Flat Logo</title>
  <defs>
   <clipPath id="clipPath6985" clipPathUnits="userSpaceOnUse">
    <path style="color:black" d="m302.72 766.98c-1.2375 10.888-7.1017 21.083-15.579 28.026-8.4777 6.9433-19.432 10.662-30.388 10.833-11.212 0.17496-22.535-3.3702-31.323-10.336-8.7874-6.9655-14.888-17.381-16.144-28.524-1.3772-12.214 2.8963-24.337 7.9571-35.538s11.038-22.186 13.407-34.246c1.154-5.8742 1.4331-11.933 3.1691-17.662 1.5125-4.9918 4.17-9.6993 8.0222-13.216 3.8523-3.5165 8.9458-5.7719 14.162-5.7719 5.2159-0.00005 10.31 2.2553 14.162 5.7717 3.8523 3.5165 6.5097 8.2241 8.0221 13.216 1.7358 5.7293 2.0146 11.788 3.1691 17.662 2.3706 12.061 8.3528 23.044 13.416 34.245s9.3363 23.327 7.9482 35.54" fill="#3a5069"/>
@@ -10,8 +11,24 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
+    <dc:title>Tux Flat Logo</dc:title>
+    <dc:source>https://0rax0.deviantart.com/art/Linux-2014-Logo-457151181</dc:source>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Reda &quot;0rAX0&quot; Lazri</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:description>Part of Unity Dash Button logos: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
+    <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/3.0/"/>
    </cc:Work>
+   <cc:License rdf:about="https://creativecommons.org/licenses/by-sa/3.0/">
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
   </rdf:RDF>
  </metadata>
  <g transform="translate(-16.162 -270.5)">

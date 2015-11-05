@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="491.43" width="491.43" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Ubuntu Logo Unofficial</title>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
+    <dc:title>Ubuntu Logo Unofficial</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Reda &quot;0rAX0&quot; Lazri</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="https://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+    <dc:source>https://0rax0.deviantart.com/art/Logo-Ubuntu-Unity-unofficial-309976677</dc:source>
+    <dc:description>Part of Unity Dash Button logos: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
    </cc:Work>
+   <cc:License rdf:about="https://creativecommons.org/licenses/by-nc-sa/3.0/">
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="https://creativecommons.org/ns#CommercialUse"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
   </rdf:RDF>
  </metadata>
  <g transform="translate(881.43 -297.9)">
   <circle cy="543.61" cx="-635.71" r="245.71" fill="#8b2965"/>
-  <text font-weight="500" xml:space="preserve" font-size="551.3px" y="703.53699" x="-797.8844" font-family="Roboto" fill="#ffffff"><tspan y="703.53699" x="-797.8844" font-family="ubuntu" fill="#ffffff">u</tspan></text>
+  <text font-size="551.3px" font-family="Roboto" xml:space="preserve" y="703.53699" x="-797.8844" font-weight="500" fill="#ffffff"><tspan y="703.53699" x="-797.8844" font-family="ubuntu" fill="#ffffff">u</tspan></text>
   <g fill="#fff">
    <rect rx="5" ry="5" height="57.306" width="57.306" y="415.21" x="-667.49"/>
    <rect rx="5" ry="5" height="57.306" width="57.306" y="488.14" x="-667.49"/>

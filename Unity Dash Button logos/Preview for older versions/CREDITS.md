@@ -1,5 +1,6 @@
 Previews for old versions of Unity Dash Button logos
 ====================================================
+- Used as preview images for [Unity Dash Button logos][dash-button-logos] version 0.4 and older
 - [Dash Button logos v0.2 Preview][preview], [Prototype Preview 2][protopreview2] and [Prototype Preview 1][protopreview1] by [akhilkay][akhilkay]
 - [Prototype Preview 0][protopreview0] by [HEXcube][hexcube]
 
@@ -7,7 +8,7 @@ Icon Sources and their licenses
 -------------------------------
 - [Moka Logo][moka-logo] from [Moka icon pack][moka-icon-pack] by [Sam "snwh" Hewitt][snwh] licensed under [CC BY-SA 4.0][CC-BY-SA]
 - Nitrux Logo from `NITRUX/places/scalable/start-here.svg` in [Nitrux icon pack][nitrux-icon-pack] v3.3 by [Nitrux S.A.][nitrux] licensed under [CC BY-NC-ND 4.0][CC-BY-NC-ND]
-- [Numix Logo][numix-logo-legacy] and [Numix Logo old][numix-super-logo] by [Numix Project][numixproject]
+- [Numix Logo][numix-logo-legacy] and [Numix Logo old][numix-super-logo] by [Numix Project][numix]
 - Ubuntu Logo Faenza from `Faenza/places/scalable/start-here-ubuntu.svg` in [Faenza icon pack][faenza-icon-pack] v1.3 by [Matthieu "tiheum" James][tiheum] licensed under [GPLv3][GPL]
 - Ubuntu Logo Malys from `malys-uniblue/malys/LOGO  UBUNTU copy to -usr-hare-unity-5/launcher_bfb.png` in [Malys Uniblue icon pack][malys-uniblue-icon-pack] by [malys][malys] licensed under [GPLv3][GPL]
 - Ubuntu Logo Whirlwind from `/usr/share/unity/icons/launcher_bfb.png` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
@@ -15,12 +16,13 @@ Icon Sources and their licenses
 - [Ubuntu][ubuntu-website] is a registered trademark of [Canonical Ltd.][canonical-website]
 
 
+[dash-button-logos]:  https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437 "Dash Button logos on DeviantArt"
 [preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Dash%20Button%20logos%20v0.2%20Preview.jpg "Dash Button logos v0.2 Preview"
 [protopreview2]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%202.jpg "Prototype Preview 2"
 [protopreview1]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%201.jpg "Prototype Preview 1"
 [protopreview0]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 0"
 [moka-logo]: https://github.com/moka-project/moka-icon-theme/blob/master/src/M/moka.svg "Moka Logo's source svg file"
-[moka-icon-pack]: http://snwh.org/moka/ "Moka Project's homepage"
+[moka-icon-pack]: http://samuelhewitt.com/moka/ "Moka Project's homepage"
 [nitrux-icon-pack]: http://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
 [numix-logo-legacy]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-logo-legacy.svg "Numix's old logo"
 [numix-super-logo]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-super-new-logo-numix.svg "Numix's old logotype"
@@ -32,9 +34,9 @@ Icon Sources and their licenses
 
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt page"
 [hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
-[snwh]: http://snwh.org "Sam Hewitt's website"
+[snwh]: http://samuelhewitt.com "Sam Hewitt's website"
 [nitrux]: https://nitrux.in "Nitrux S.A.'s website"
-[numixproject]: https://numixproject.org "Numix Project's website"
+[numix]: https://numixproject.org "Numix Project's website"
 [tiheum]: https://tiheum.deviantart.com "Matthieu James' DeviantArt page"
 [malys]: https://malysss.deviantart.com "Malys's DeviantArt page"
 [ubuntu-website]: http://www.ubuntu.com "Ubuntu website"

@@ -1,6 +1,6 @@
 Preview for Unity Dash Button logos v0.5
 ========================================
-[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube] isn't an original creation, but derived from the works of many artists and designers. The source, creator and license of each artwork used for creating this preview image are listed below.
+[Dash Button logos v0.5 Preview][preview] by [HEXcube][hexcube] was created as a preview image for version 0.5 of [Unity Dash Button logos][dash-button-logos]. This preview image isn't an original creation, but derived from the works of many artists and designers. The source, creator and license of each artwork used for creating this preview image are listed below.
 
 Backgrounds, Display Frame and Titles
 -------------------------------------
@@ -21,11 +21,11 @@ Icons in the Launcher
 Icons in the Launcher Clippings
 -------------------------------
 - Nitrux Logo from `Nitrux/apps/48/nitrux-store.svg` in [Nitrux icon pack][nitrux-icon-pack] v3.5.3 by [Nitrux S.A.][nitrux] licensed under [CC BY-NC-ND 4.0][CC-BY-NC-ND]
-- [Numix Logo][numix-logo] by [Numix Project][numixproject]
+- [Numix Logo][numix-logo] by [Numix Project][numix]
 - Tux Logo Flat derived from [Linux 2014 Logo][linux-logo-0rax0] by [Reda "0rAX0" Lazri][0rax0] licensed under [CC BY-SA 3.0][CC-BY-SA3]
-- [Ubuntu Logo Numix Circle][ubuntu-logo-numix] from [Numix Circle icon pack][circle-icon-pack] by [Numix Project][numixproject] licensed under [GPLv3][GPL]
+- [Ubuntu Logo Numix Circle][ubuntu-logo-numix] from [Numix Circle icon pack][circle-icon-pack] by [Numix Project][numix] licensed under [GPLv3][GPL]
 - Ubuntu Precise Pangolin icon derived from [Pangolin plain logo][precise-pangolin], © [Canonical Ltd.][canonical-website] licensed under [CC BY-SA 3.0][CC-BY-SA3]
-- [App Launcher Numix uTouch][app-launcher-utouch] from [Numix uTouch icon pack][utouch-icon-pack] by [Numix Project][numixproject] licensed under [GPLv3][GPL]
+- [App Launcher Numix uTouch][app-launcher-utouch] from [Numix uTouch icon pack][utouch-icon-pack] by [Numix Project][numix] licensed under [GPLv3][GPL]
 
 Icons in the Tray
 -----------------
@@ -46,6 +46,7 @@ Ubuntu trademark and logos
 
 
 [preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20v0.5/Dash%20Button%20logos%20v0.5%20Preview.svg "Dash Button logos v0.5 Preview"
+[dash-button-logos]:  https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437 "Dash Button logos on DeviantArt"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
 [thunderbolt-display]: https://bokehlicia.deviantart.com/art/Thunderbolt-Display-SVG-470414571 "Thunderbolt Display on DeviantArt"
 [ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"
@@ -79,7 +80,7 @@ Ubuntu trademark and logos
 [mozilla]: https://mozilla.org "Mozilla website"
 [docfoundation]: https://www.documentfoundation.org/ "Document Foundation website"
 [nitrux]: https://nitrux.in "Nitrux S.A.'s website"
-[numixproject]: https://numixproject.org "Numix Project's website"
+[numix]: https://numixproject.org "Numix Project's website"
 [dablim]: https://dablim.deviantart.com "Dablim's DeviantArt page"
 [aosp]: https://source.android.com "Android Open Source Project website"
 [xenatt]: https://github.com/xenatt "Nattapong Pullkhow's GitHub page"

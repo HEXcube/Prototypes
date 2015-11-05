@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="36.124mm" width="36.124mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 127.99999 127.99999">
+ <title>App Drawer Lollipop</title>
  <defs>
   <filter id="filter3633" style="color-interpolation-filters:sRGB">
-   <feFlood flood-opacity=".25098" flood-color="rgb(0,0,0)" result="flood"/>
+   <feFlood result="flood" flood-opacity=".25098" flood-color="rgb(0,0,0)"/>
    <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
    <feGaussianBlur stdDeviation="2" result="blur" in="composite1"/>
    <feOffset result="offset" dx="0" dy="2"/>
@@ -15,8 +16,23 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
+    <dc:title>App Drawer Lollipop</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>HEXcube</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source>https://android.googlesource.com/platform/packages/apps/Launcher3/+/lollipop-release/res/drawable-xxhdpi/ic_allapps.png</dc:source>
+    <dc:description>Part of Unity Dash Button logos: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
+    <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
    </cc:Work>
+   <cc:License rdf:about="https://creativecommons.org/licenses/by/4.0/">
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
   </rdf:RDF>
  </metadata>
  <path filter="url(#filter3633)" d="m64 14a50 50 0 0 0 -50 50 50 50 0 0 0 50 50 50 50 0 0 0 50 -50 50 50 0 0 0 -50 -50zm-22 34a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm22 0a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm22 0a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm-44 22a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm22 0a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm22 0a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5z" fill="#f5f5f5"/>
