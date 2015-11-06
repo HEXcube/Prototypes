@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="108" width="270" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 269.99999 108">
+ <title>DeviantArt Download Button</title>
+ <defs>
+  <filter id="filter4300" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="2 2" result="blur"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>DeviantArt Download Button</dc:title>
+    <dc:source>Made from DeviantArt Logo Lockups: http://www.da-files.com/artnetwork/new-da/boldy-facing-the-future/title-lockups_all.svg</dc:source>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>HEXcube</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:description>&quot;Download from&quot; Button for DeviantArt. Can be used on webpages to link to Deviations</dc:description>
+    <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="https://creativecommons.org/licenses/by/4.0/">
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <rect rx="4" ry="3.9149" height="92" filter="url(#filter4300)" width="256" y="10" x="8"/>
+ <rect rx="4" ry="4" height="92" width="256" y="8" x="6"/>
+ <g transform="translate(-794.61,37.43)">
+  <polygon points="845.14 48.916 845.14 33.65 834.85 33.65 833.93 32.533 845.14 11.121 845.14 0.002 845.14 0.002 834.02 0.002 832.91 1.123 827.67 11.117 826.02 12.232 807.3 12.232 807.3 27.498 817.59 27.498 818.5 28.609 807.3 50.029 807.3 61.145 807.3 61.145 818.41 61.145 819.52 60.027 824.77 50.029 826.42 48.916" fill="#05cc47"/>
+  <g fill="#f3f3f3">
+   <path d="m867.17 33.65-14.387 27.495h8.539l2.086-4h9.641l0.953 4h8.539l-6.58-27.494h-8.791zm-0.308 16.889 3.159-6.029 1.457 6.029h-4.616z"/>
+   <path d="m907.39 43.611c0-6.314-4.27-9.961-10.273-9.961h-13.027v27.496h8.227v-8.02h2l1.635-0.004 3.98 8.023h8.538l-5.077-9.701c2.487-1.585 3.997-4.274 3.997-7.833zm-11.428 2.893h-3.646v-5.559h3.646c2.223 0 3.067 1.111 3.067 2.803 0 1.643-0.844 2.756-3.067 2.756z"/>
+   <polygon points="931.65 40.941 935.46 33.65 908.61 33.65 908.61 40.941 916.38 40.941 916.38 61.146 921.06 61.146 924.6 54.383 924.6 40.941"/>
+  </g>
+  <g fill="#f3f3f3">
+   <rect y=".002" x="954.69" height="27.496" width="8.216"/>
+   <path d="m884.79 0.018-3.692 7.047h2.268c4.048 0 6.61 2.588 6.61 6.684 0 4.043-2.562 6.631-6.61 6.631h-2.563v-12.751l-7.947 15.174v4.688h11.059c8.912 0 14.148-5.371 14.148-13.742-0.01-8.097-4.9-13.388-13.28-13.731z"/>
+   <polygon points="921.23 0.002 900.24 0.002 900.24 27.498 921.23 27.498 921.23 20.209 908.46 20.209 908.46 17.238 920.2 17.238 920.2 10.262 908.46 10.262 908.46 7.289 921.23 7.289"/>
+   <polygon points="931.85 0.002 923.32 0.002 929.91 27.494 938.68 27.494 953.08 0.002 944.54 0.002 935.83 16.641"/>
+   <polygon points="1046.1 7.289 1049.9 0 1023.1 0 1023.1 7.289 1030.9 7.289 1030.9 27.498 1035.5 27.498 1039.1 20.732 1039.1 7.289"/>
+   <path d="m978.9 0.002-14.391 27.492h8.525l2.094-4.008h9.631l0.957 4.008 8.525 0.004-6.58-27.496h-8.761zm-0.318 16.887 3.152-6.021 1.458 6.021h-4.61z"/>
+   <polygon points="1014.2 27.498 1021.3 27.498 1021.3 0.002 1013.1 0.002 1013.1 13.027 1003.9 0.002 995.8 0.002 995.8 27.498 1004 27.498 1004 13.533"/>
+  </g>
+ </g>
+ <rect rx="4" ry="4.5" height="27" width="256" y="8" x="6" fill="#303030"/>
+ <g font-family="Neuropolitical" fill="#fff">
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="28" x="53.785" line-height="125%"><tspan font-size="22.5px" y="28" x="53.785" font-family="Neuropolitical" fill="#ffffff">GET </tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="28" x="162.78502" line-height="125%"><tspan font-size="22.5px" y="28" x="162.78502" font-family="Neuropolitical" fill="#ffffff">ON</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="28" x="123.65" line-height="125%"><tspan font-size="22.5px" y="28" x="123.65" font-family="Neuropolitical" fill="#ffffff">IT</tspan></text>
+ </g>
+ <rect height="3" width="256" y="32" x="6" fill="#05cc47"/>
+</svg>

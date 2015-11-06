@@ -46,7 +46,7 @@ Ubuntu trademark and logos
 
 
 [preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20v0.5/Dash%20Button%20logos%20v0.5%20Preview.svg "Dash Button logos v0.5 Preview"
-[dash-button-logos]:  https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437 "Dash Button logos on DeviantArt"
+[dash-button-logos]: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437 "Dash Button logos on DeviantArt"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
 [thunderbolt-display]: https://bokehlicia.deviantart.com/art/Thunderbolt-Display-SVG-470414571 "Thunderbolt Display on DeviantArt"
 [ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"

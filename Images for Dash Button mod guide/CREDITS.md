@@ -25,7 +25,7 @@ Ubuntu trademark and logos
 - [Ubuntu logo][ubuntu-logo-orange] from [Ubuntu Design website][ubuntu-design-logos], used under the terms of [Canonical's IPRights Policy][IPpolicy]
 
 [ask-question]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher "How to change Dash Button in Unity Launcher"
-[ask-answer]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher "Change Dash Button on Ubuntu 14.04LTS and 12.04LTS"
+[ask-answer]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher/513449#513449 "Change Dash Button on Ubuntu 14.04LTS and 12.04LTS"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
 [unity-core-package]: http://packages.ubuntu.com/trusty/libunity-core-6.0-9 "Unity's core assets package"
 [humanity-icon-theme]: http://packages.ubuntu.com/trusty/humanity-icon-theme "Humanity icon theme package"
