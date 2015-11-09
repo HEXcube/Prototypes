@@ -29,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-width="630"
+     inkscape:window-height="371"
      id="namedview211"
      showgrid="false"
-     inkscape:zoom="0.380625"
-     inkscape:cx="600"
+     inkscape:zoom="0.15491256"
+     inkscape:cx="709.0312"
      inkscape:cy="800"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-x="660"
+     inkscape:window-y="277"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer8"
      showguides="true">
     <inkscape:grid
@@ -18645,8 +18645,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Titles"
-     sodipodi:insensitive="true">
+     inkscape:label="Titles">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1.52900004;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter8866)"
        id="rect6317"
@@ -18656,44 +18655,50 @@
        y="900"
        ry="18"
        rx="18" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot1329"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:120px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5983)"
-       transform="translate(63.650089,329.83378)"><flowRegion
-         id="flowRegion1331"><rect
-           id="rect1333"
-           width="1177.0114"
-           height="162.89001"
-           x="-55.172413"
-           y="864.3678"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:120px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara1335">Dash Button logos</flowPara></flowRoot>    <flowRoot
+       x="596.98444"
+       y="1315.8719"
+       id="text3064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="596.98444"
+         y="1315.8719"
+         id="tspan3066"><tspan
+           x="596.98444"
+           y="1315.8719"
+           id="tspan3068">Dash Button logos</tspan></tspan></text>
+    <text
        xml:space="preserve"
-       id="flowRoot5995"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(804.9093,503.76692)"><flowRegion
-         id="flowRegion5997"><rect
-           id="rect5999"
-           width="147.12665"
-           height="44.663391"
-           x="-178.65353"
-           y="985.22162"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara6001"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'">14.04LTS</flowPara></flowRoot>    <flowRoot
+       x="626.255"
+       y="1524.4751"
+       id="text3028"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="626.255"
+         y="1524.4751"
+         id="tspan3030"><tspan
+           x="626.255"
+           y="1524.4751"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
+           id="tspan3032">14.04LTS</tspan></tspan></text>
+    <text
        xml:space="preserve"
-       id="flowRoot4717"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(23.845469,306.74496)"><flowRegion
-         id="flowRegion4719"><rect
-           id="rect4721"
-           width="52.545166"
-           height="39.408997"
-           x="168.1445"
-           y="1132.348"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara4723">for</flowPara></flowRoot>    <g
+       x="191.99001"
+       y="1474.58"
+       id="text3048"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="191.99001"
+         y="1474.58"
+         id="tspan3050"><tspan
+           x="191.99001"
+           y="1474.58"
+           id="tspan3052">for</tspan></tspan></text>
+    <g
        id="g4751"
        transform="matrix(2,0,0,2,260.0004,1400.6962)">
       <g
@@ -18748,33 +18753,37 @@
              x="36.623192">nity</tspan></text>
       </g>
     </g>
-    <flowRoot
-       transform="translate(994.9093,503.76692)"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot1372"
-       xml:space="preserve"><flowRegion
-         id="flowRegion1374"><rect
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff"
-           y="985.22162"
-           x="-178.65353"
-           height="44.663391"
-           width="147.12665"
-           id="rect1376" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
-         id="flowPara1378">12.04LTS</flowPara></flowRoot>    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot1380"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(961.9043,453.97692)"><flowRegion
-         id="flowRegion1382"><rect
-           id="rect1384"
-           width="36.781822"
-           height="52.545166"
-           x="-178.65353"
-           y="985.22162"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara1386"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'">&amp;</flowPara></flowRoot>    <g
+       x="816.255"
+       y="1524.4751"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="816.255"
+         y="1524.4751"
+         id="tspan3024"><tspan
+           x="816.255"
+           y="1524.4751"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
+           id="tspan3026">12.04LTS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="783.25"
+       y="1474.6851"
+       id="text3034"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="783.25"
+         y="1474.6851"
+         id="tspan3036"><tspan
+           x="783.25"
+           y="1474.6851"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
+           id="tspan3038">&amp;</tspan></tspan></text>
+    <g
        id="g4709"
        transform="matrix(0.625,0,0,-0.625,718.95215,1655.235)"
        style="fill:#ffffff">
@@ -19180,20 +19189,25 @@
          d="m 467.37,312.47 c 0.817,3.447 11.189,9.402 16.872,8.43 5.682,-0.974 16.869,-16.86 16.869,-16.86 0,0 -21.479,-10.916 -25.306,-8.431 -3.827,2.485 -9.253,13.414 -8.435,16.861 z"
          inkscape:connector-curvature="0" />
     </g>
-    <flowRoot
-       transform="translate(234.93047,301.49105)"
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot5056"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5058"><rect
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff"
-           y="1137.6025"
-           x="168.1445"
-           height="44.663574"
-           width="42.036133"
-           id="rect5060" /></flowRegion><flowPara
-         id="flowPara5062">on</flowPara><flowPara
-         id="flowPara5064" /></flowRoot>    <g
+       x="403.07501"
+       y="1474.58"
+       id="text3040"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="403.07501"
+         y="1474.58"
+         id="tspan3042"><tspan
+           x="403.07501"
+           y="1474.58"
+           id="tspan3044">on</tspan><tspan
+           dx="0"
+           x="443.33868"
+           y="1474.58"
+           id="tspan3046" /></tspan></text>
+    <g
        id="g11282"
        transform="matrix(0.43199854,0,0,0.43200053,316.70383,926.70378)">
       <circle

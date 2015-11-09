@@ -23,7 +23,7 @@ Icon Sources and their licenses
 [protopreview0]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 0"
 [moka-logo]: https://github.com/moka-project/moka-icon-theme/blob/master/src/M/moka.svg "Moka Logo's source svg file"
 [moka-icon-pack]: http://samuelhewitt.com/moka/ "Moka Project's homepage"
-[nitrux-icon-pack]: http://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
+[nitrux-icon-pack]: https://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
 [numix-logo-legacy]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-logo-legacy.svg "Numix's old logo"
 [numix-super-logo]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-super-new-logo-numix.svg "Numix's old logotype"
 [faenza-icon-pack]: https://tiheum.deviantart.com/art/Faenza-Icons-173323228 "Faenza icon pack on DeviantArt"

@@ -10,6 +10,7 @@ Icons in the Launcher
 ---------------------
 - Launcher button assets from `/usr/share/unity/icons/launcher_icon_shine_54.svg`, `/usr/share/unity/icons/launcher_icon_shine_54.svg` and `/usr/share/unity/icons/launcher_icon_shine_54.svg` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
 - Ubuntu Logo Whirlwind is `/usr/share/unity/icons/launcher_bfb.png` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL] recreated in vector graphics by [akhilkay][akhilkay] licensed under [CC BY-SA 4.0][CC-BY-SA]
+- [App Launcher Numix uTouch][app-launcher-utouch] from [Numix uTouch icon pack][utouch-icon-pack] by [Numix Project][numix] licensed under [GPLv3][GPL]
 - Files, System Settings and Trash icons from `/usr/share/icons/Humanity/apps/48/system-file-manager.svg`, `/usr/share/icons/Humanity/categories/48/preferences-system.svg` and `/usr/share/icons/Humanity/places/48/user-trash.svg` in [Humanity icon theme][humanity-icon-theme] licensed under [GPLv2][GPLv2]
 - Software Center icon from `/usr/share/icons/hicolor/scalable/apps/softwarecenter.svg` from [Ubuntu Software Center package][software-center] licensed under [GPLv3][GPL]
 - [Firefox icon][firefox-icon], © [Mozilla][mozilla] licensed under [CC BY 3.0][CC-BY3]
@@ -28,6 +29,8 @@ Ubuntu trademark and logos
 [ask-answer]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher/513449#513449 "Change Dash Button on Ubuntu 14.04LTS and 12.04LTS"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
 [unity-core-package]: http://packages.ubuntu.com/trusty/libunity-core-6.0-9 "Unity's core assets package"
+[app-launcher-utouch]: https://github.com/numixproject/numix-icon-theme-utouch/blob/master/Numix-uTouch/scalable/apps/app-launcher.svg "App Launcher in Numix uTouch"
+[utouch-icon-pack]: https://github.com/numixproject/numix-icon-theme-utouch/ "Numix uTouch icon pack on GitHub"
 [humanity-icon-theme]: http://packages.ubuntu.com/trusty/humanity-icon-theme "Humanity icon theme package"
 [software-center]: http://packages.ubuntu.com/trusty/software-center "Ubuntu Software Center package"
 [firefox-icon]: https://en.wikipedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg "Mozilla Firefox Logo 2013 on Wikipedia"
@@ -37,6 +40,7 @@ Ubuntu trademark and logos
 [ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt profile"
+[numix]: https://numixproject.org "Numix Project's website"
 [mozilla]: https://mozilla.org "Mozilla website"
 [docfoundation]: https://www.documentfoundation.org/ "Document Foundation website"
 [ubuntu-website]: http://www.ubuntu.com "Ubuntu website"
