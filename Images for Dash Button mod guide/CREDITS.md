@@ -2,9 +2,10 @@ Images for Dash Button mod guide
 ================================
 These images were created for illustrating the AskUbuntu question [How to change Dash Button in Unity Launcher][ask-question] and it's [answer][ask-answer]
 
-Background
-----------
-Suru Background derived from `/usr/share/backgrounds/warty-final-ubuntu.png` in **Ubuntu 14.04LTS**'s [Wallpapers package][wallpapers] licensed under [CC BY-SA 3.0][CC-BY-SA3]
+Background and Arrow
+--------------------
+- Suru Background derived from `/usr/share/backgrounds/warty-final-ubuntu.png` in **Ubuntu 14.04LTS**'s [Wallpapers package][wallpapers] licensed under [CC BY-SA 3.0][CC-BY-SA3]
+- Go Next arrow derived from `/usr/share/ubuntu-html5-ui-toolkit/0.1/ambiance/img/actions/go-next.svg` in **Ubuntu 16.04LTS**'s [HTML5 UI Toolkit package][ubuntu-html5-ui] licensed under [CC BY-SA 3.0][CC-BY-SA3]
 
 Icons in the Launcher
 ---------------------
@@ -28,6 +29,7 @@ Ubuntu trademark and logos
 [ask-question]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher "How to change Dash Button in Unity Launcher"
 [ask-answer]: https://askubuntu.com/questions/68612/how-to-change-the-dash-button-logo-in-unity-launcher/513449#513449 "Change Dash Button on Ubuntu 14.04LTS and 12.04LTS"
 [wallpapers]: http://packages.ubuntu.com/trusty/ubuntu-wallpapers "Ubuntu Wallpapers package"
+[ubuntu-html5-ui]: http://packages.ubuntu.com/xenial/ubuntu-html5-ui-toolkit "Ubuntu HTML5 UI Toolkit package"
 [unity-core-package]: http://packages.ubuntu.com/trusty/libunity-core-6.0-9 "Unity's core assets package"
 [app-launcher-utouch]: https://github.com/numixproject/numix-icon-theme-utouch/blob/master/Numix-uTouch/scalable/apps/app-launcher.svg "App Launcher in Numix uTouch"
 [utouch-icon-pack]: https://github.com/numixproject/numix-icon-theme-utouch/ "Numix uTouch icon pack on GitHub"

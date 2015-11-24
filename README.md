@@ -29,7 +29,7 @@ if you use anything from here, don't forget to credit the original creators.
 
 
 [inkscape]: https://inkscape.org "Link to Inkscape's homepage"
-[gimp]: http://www.gimp.org "Link to GIMP's homepage"
+[gimp]: https://www.gimp.org "Link to GIMP's homepage"
 [timelapse]: https://www.youtube.com/user/SKypH3R "Cameron Bohnstedt's YouTube page"
 [skypher]: https://skypher.deviantart.com "Cameron Bohnstedt's DeviantArt page"
 [gnome-mockups]: https://github.com/gnome-design-team/gnome-mockups "Link to Gnome Mockups GitHub repo"
