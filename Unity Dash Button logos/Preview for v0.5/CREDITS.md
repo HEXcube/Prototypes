@@ -11,9 +11,9 @@ Backgrounds, Display Frame and Titles
 
 Icons in the Launcher
 ---------------------
-- Launcher button assets from `/usr/share/unity/icons/launcher_icon_shine_54.svg`, `/usr/share/unity/icons/launcher_icon_shine_54.svg` and `/usr/share/unity/icons/launcher_icon_shine_54.svg` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
+- Launcher button assets from `/usr/share/unity/icons/launcher_icon_edge_54.svg`, `/usr/share/unity/icons/launcher_icon_shadow_62.svg` and `/usr/share/unity/icons/launcher_icon_shine_54.svg` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
 - [Unofficial Unity Logo][unity-logo-0rax0] by [Reda "0rAX0" Lazri][0rax0] licensed under [CC BY-NC-SA 3.0][CC-BY-NC-SA3]
-- Files, System Settings and Trash icons from `/usr/share/icons/Humanity/apps/48/system-file-manager.svg`, `/usr/share/icons/Humanity/categories/48/preferences-system.svg` and `/usr/share/icons/Humanity/places/48/user-trash.svg` in [Humanity icon theme][humanity-icon-theme] licensed under [GPLv2][GPLv2]
+- Files, Settings and Trash icons from `/usr/share/icons/Humanity/apps/48/system-file-manager.svg`, `/usr/share/icons/Humanity/categories/48/preferences-system.svg` and `/usr/share/icons/Humanity/places/48/user-trash.svg` in [Humanity icon theme][humanity-icon-theme] licensed under [GPLv2][GPLv2]
 - Software Center icon from `/usr/share/icons/hicolor/scalable/apps/softwarecenter.svg` from [Ubuntu Software Center package][software-center] licensed under [GPLv3][GPL]
 - [Firefox icon][firefox-icon], © [Mozilla][mozilla] licensed under [CC BY 3.0][CC-BY3]
 - LibreOffice icons from [LibreOffice Initial icons sheet][libreoffice-icons], © [The Document Foundation][docfoundation] licensed under [CC BY-SA 3.0][CC-BY-SA3]

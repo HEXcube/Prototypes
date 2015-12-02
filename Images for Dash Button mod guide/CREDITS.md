@@ -5,14 +5,14 @@ These images were created for illustrating the AskUbuntu question [How to change
 Background and Arrow
 --------------------
 - Suru Background derived from `/usr/share/backgrounds/warty-final-ubuntu.png` in **Ubuntu 14.04LTS**'s [Wallpapers package][wallpapers] licensed under [CC BY-SA 3.0][CC-BY-SA3]
-- Go Next arrow derived from `/usr/share/ubuntu-html5-ui-toolkit/0.1/ambiance/img/actions/go-next.svg` in **Ubuntu 16.04LTS**'s [HTML5 UI Toolkit package][ubuntu-html5-ui] licensed under [CC BY-SA 3.0][CC-BY-SA3]
+- Suru Arrow derived from `/usr/share/ubuntu-html5-ui-toolkit/0.1/ambiance/img/actions/go-next.svg` in **Ubuntu 16.04LTS**'s [HTML5 UI Toolkit package][ubuntu-html5-ui] licensed under [CC BY-SA 3.0][CC-BY-SA3]
 
 Icons in the Launcher
 ---------------------
-- Launcher button assets from `/usr/share/unity/icons/launcher_icon_shine_54.svg`, `/usr/share/unity/icons/launcher_icon_shine_54.svg` and `/usr/share/unity/icons/launcher_icon_shine_54.svg` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
+- Launcher button assets from `/usr/share/unity/icons/launcher_icon_edge_54.svg`, `/usr/share/unity/icons/launcher_icon_shadow_62.svg` and `/usr/share/unity/icons/launcher_icon_shine_54.svg` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL]
 - Ubuntu Logo Whirlwind is `/usr/share/unity/icons/launcher_bfb.png` in **Ubuntu 14.04LTS**'s [Unity 7.2][unity-core-package] licensed under [LGPLv3][LGPL] recreated in vector graphics by [akhilkay][akhilkay] licensed under [CC BY-SA 4.0][CC-BY-SA]
 - [App Launcher Numix uTouch][app-launcher-utouch] from [Numix uTouch icon pack][utouch-icon-pack] by [Numix Project][numix] licensed under [GPLv3][GPL]
-- Files, System Settings and Trash icons from `/usr/share/icons/Humanity/apps/48/system-file-manager.svg`, `/usr/share/icons/Humanity/categories/48/preferences-system.svg` and `/usr/share/icons/Humanity/places/48/user-trash.svg` in [Humanity icon theme][humanity-icon-theme] licensed under [GPLv2][GPLv2]
+- Files, Settings and Trash icons from `/usr/share/icons/Humanity/apps/48/system-file-manager.svg`, `/usr/share/icons/Humanity/categories/48/preferences-system.svg` and `/usr/share/icons/Humanity/places/48/user-trash.svg` in [Humanity icon theme][humanity-icon-theme] licensed under [GPLv2][GPLv2]
 - Software Center icon from `/usr/share/icons/hicolor/scalable/apps/softwarecenter.svg` from [Ubuntu Software Center package][software-center] licensed under [GPLv3][GPL]
 - [Firefox icon][firefox-icon], © [Mozilla][mozilla] licensed under [CC BY 3.0][CC-BY3]
 - LibreOffice icons from [LibreOffice Initial icons sheet][libreoffice-icons], © [The Document Foundation][docfoundation] licensed under [CC BY-SA 3.0][CC-BY-SA3]

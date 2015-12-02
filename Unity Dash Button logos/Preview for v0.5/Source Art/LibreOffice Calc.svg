@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="40" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>LibreOffice Calc</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>LibreOffice Calc</dc:title>
+    <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/3.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>The Document Foundation</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source>https://wiki.documentfoundation.org/File:LibreOffice_Initial_Icons-pre_final.svg</dc:source>
+    <dc:description>Optimized from LibreOffice 3.3 offcial icons</dc:description>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient13214-6">
+   <stop stop-color="#18a303" offset="0"/>
+   <stop stop-color="#106802" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient14043-3" x1="110.97" xlink:href="#linearGradient13214-6" gradientUnits="userSpaceOnUse" y1="976.3" gradientTransform="matrix(3 0 0 2.9991 -332.99 -2928.3)" x2="111" y2="991.87"/>
+  <linearGradient id="linearGradient14045-8" x1="110.97" xlink:href="#linearGradient13214-6" gradientUnits="userSpaceOnUse" y1="976.3" gradientTransform="matrix(3.0119 0 0 3.0276 -336.48 -2956)" x2="110.97" y2="992.38"/>
+  <linearGradient id="linearGradient44048" x1="209.06" gradientUnits="userSpaceOnUse" y1="-765.46" gradientTransform="matrix(1.5 0 0 1.5 -309 1177)" x2="209.06" y2="-781.62">
+   <stop stop-color="#fff" stop-opacity=".58824" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".86274" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path style="text-decoration-line:none;text-transform:none;text-indent:0pt" d="m2.4379 0.014979c-1.3752 0.2624-2.4622 1.5997-2.4375 2.9991v41.987c0.00016026 1.57 1.4293 2.999 3 2.999h33.999c1.5707-0.00015 2.9998-1.4289 3-2.9991v-26.182c0.018-0.79196-0.2925-1.5865-0.84375-2.1557l-15.811-15.806c-0.569-0.55098-1.364-0.8619-2.156-0.84355h-18.189c-0.1869-0.017993-0.37554-0.017993-0.5625 0z" fill="url(#linearGradient14043-3)"/>
+ <path style="text-decoration-line:none;text-transform:none;text-indent:0pt" d="m28.988 0.018264c-0.999 0.3198-1.335 1.8397-0.565 2.5545l9.0357 9.0828c0.83472 0.79561 2.4973 0.11485 2.5413-1.0407v-9.0828c-0.00009-0.79261-0.71746-1.5137-1.506-1.5138h-9.0357c-0.15569-0.02399-0.31499-0.02399-0.47059 0z" fill="url(#linearGradient14045-8)"/>
+ <path style="text-decoration-line:none;text-transform:none;text-indent:0pt" d="m3 3v42h34v-26.57l-0.234-0.234-14.907-15.008-0.187-0.188h-18.672z" fill="#ccc"/>
+ <path d="m5 5h16l14 14v24h-30v-38z" fill="url(#linearGradient44048)"/>
+ <rect height="21" width="22" y="18" x="8" fill="#ccf4c6"/>
+ <rect height="5" width="22" y="18" x="8" fill="#92e285"/>
+ <g transform="translate(-468,895.6)" fill="#170">
+  <path transform="translate(-123,-1753.6)" d="m599 876v21h22v-21h-22zm1 1h6v3h-6v-3zm7 0h6v3h-6v-3zm7 0h6v3h-6v-3zm-14 4h6v3h-6v-3zm7 0h6v3h-6v-3zm7 0h6v3h-6v-3zm-14 4h6v3h-6v-3zm7 0h6v3h-6v-3zm7 0h6v3h-6v-3zm-14 4h6v3h-6v-3zm7 0h6v3h-6v-3zm7 0h6v3h-6v-3zm-14 4h6v3h-6v-3zm7 0h6v3h-6v-3zm7 0h6v3h-6v-3z" fill="#170"/>
+ </g>
+ <rect height="11" width="11" y="29" x="21" fill="#808080"/>
+ <rect height="9" width="9" y="30" x="22" fill="#ccc"/>
+ <rect height="9" width="9" y="30" x="22" fill="#f4f4f4"/>
+ <rect height="5" width="3" y="34" x="22" fill="#1c99e0"/>
+ <rect height="5" width="3" y="31" x="25" fill="#d36118"/>
+ <rect height="3" width="3" y="36" x="28" fill="#e9b913"/>
+ <rect height="4" width="1" y="35" x="23" fill="#63bbee"/>
+ <rect height="7" width="1" y="32" x="26" fill="#f09e6f"/>
+ <rect height="2" width="1" y="37" x="29" fill="#f5ce53"/>
+</svg>

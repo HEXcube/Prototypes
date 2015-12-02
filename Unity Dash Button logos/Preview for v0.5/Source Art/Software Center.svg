@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="128" width="128" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>Software Center</title>
+  <metadata>
+   <rdf:RDF>
+    <cc:Work rdf:about="">
+     <dc:format>image/svg+xml</dc:format>
+     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     <dc:title>Software Center</dc:title>
+     <cc:license rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html"/>
+     <dc:creator>
+      <cc:Agent>
+       <dc:title>Canonical</dc:title>
+      </cc:Agent>
+     </dc:creator>
+     <dc:source>http://packages.ubuntu.com/trusty/software-center</dc:source>
+     <dc:description>Optimized from `/usr/share/icons/hicolor/scalable/apps/softwarecenter.svg` in Ubuntu 14.04LTS&apos;s Ubuntu Software Center package</dc:description>
+    </cc:Work>
+   </rdf:RDF>
+  </metadata>
+ <defs>
+  <path id="3" d="m210.62 911.99h42.75v33h-42.75v-23z"/>
+  <path id="4" d="m144 136c0 4.418-25.07 8-56 8s-56-3.582-56-8 25.07-8 56-8 56 3.582 56 8"/>
+  <path id="5" d="m211 912.36h42l-3-2.25 1.125-1.5h-38.25l1.125 1.5z"/>
+  <path id="6" d="m82.906 78c-1.598 3.325-3.15 6.74-4.656 10.25-1.461 3.463-2.979 7.121-4.531 11-0.343 0.883-0.683 1.84-1.031 2.75h10.156c0.109-0.303 0.236-0.639 0.344-0.938 0.73-1.893 1.375-3.618 1.969-5.188 0.593-1.57 1.106-2.956 1.563-4.156 0.456-1.201 0.803-2.151 1.031-2.844 0.274 0.693 0.637 1.643 1.094 2.844s1 2.586 1.594 4.156c0.639 1.57 1.284 3.294 1.969 5.188 0.108 0.298 0.235 0.635 0.344 0.938h10.531c-0.356-0.91-0.709-1.866-1.063-2.75-1.51-3.879-3.03-7.537-4.532-11-1.507-3.509-3.042-6.925-4.594-10.25h-10.188m-15.344 37.84c-1.149 3.22-2.324 6.56-3.562 10.16h11.09c0.502-1.662 1.063-3.37 1.656-5.125 0.594-1.63 1.164-3.245 1.719-4.875h-9.469c-0.495 0-0.972-0.059-1.438-0.156zm40.844 0c-0.46 0.1-0.93 0.16-1.41 0.16h-9.813c0.551 1.629 1.105 3.245 1.656 4.875 0.639 1.755 1.217 3.463 1.719 5.125h11.44c-1.238-3.597-2.413-6.939-3.563-10.156-0.01 0.002-0.021-0.002-0.031 0z"/>
+  <rect id="7" rx="1.875" height="3.75" width="18" y="930.36" x="223"/>
+  <path id="8" d="m251.12 908.61l-1.125 1.5 1.123 0.842z"/>
+  <path id="9" d="m211 945.36h42v-33h-42v23z"/>
+  <path id="A" d="m222.25 897.36l1.875 3.75h3.75l1.875-3.75zm12 0l1.875 3.75h3.75l1.875-3.75z"/>
+  <path id="B" d="m212.88 908.61l1.125 1.5-1.123 0.842z"/>
+  <path id="C" d="m226 951.24h13.5l-3-3h-7.5z"/>
+  <path id="D" d="m224.5 971.11h15l-3-3h-9z"/>
+  <path id="E" d="m68 60h8v4s-4 1-8 0z"/>
+  <path id="F" d="m224.5 971.11v8.25c1.5 0.375 3 0 3 0v-8.25zm12 0v8.25h3v-8.25z"/>
+  <clipPath id="G">
+   <path d="m211 901.11h42l-3-2.25 1.125-1.5h-38.25l1.125 1.5z"/>
+  </clipPath>
+  <filter id="I" height="1.787" width="1.112" y="-.393" x="-.056" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.62154"/>
+  </filter>
+  <filter id="J" height="1.835" width="1.174" y="-.418" x="-.087" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".6525"/>
+  </filter>
+  <filter id="H" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".18938"/>
+  </filter>
+  <linearGradient id="U" gradientUnits="userSpaceOnUse" y1="428" gradientTransform="matrix(1.0714 0 0 1-16.571 540.11)" x2="0" y2="431">
+   <stop stop-color="#ef7545" offset="0"/>
+   <stop stop-color="#eb5114" offset="1"/>
+  </linearGradient>
+  <linearGradient id="T" gradientUnits="userSpaceOnUse" x2="0" y2="979.36" y1="971.36">
+   <stop stop-color="#f07e51" offset="0"/>
+   <stop stop-color="#ec5d24" offset="1"/>
+  </linearGradient>
+  <linearGradient id="S" gradientUnits="userSpaceOnUse" x2="0" y2="896.24" y1="901.11">
+   <stop stop-color="#520" offset="0"/>
+   <stop stop-color="#520" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="W" xlink:href="#L" gradientUnits="userSpaceOnUse" y1="908.6" x2="0" y2="910.95"/>
+  <linearGradient id="R" y2="18.577" gradientUnits="userSpaceOnUse" y1="31.83" x2="64.5" x1="63.65">
+   <stop stop-color="#ed9666" offset="0"/>
+   <stop stop-color="#ed9666" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="X" gradientUnits="userSpaceOnUse" x2="0" y2="19.959" y1="17.959">
+   <stop stop-color="#d64912" offset="0"/>
+   <stop stop-color="#d64912" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="V" gradientUnits="userSpaceOnUse" x2="0" y2="910.95" y1="908.6">
+   <stop stop-color="#ed8347" offset="0"/>
+   <stop stop-color="#e85913" offset="1"/>
+  </linearGradient>
+  <linearGradient id="P" gradientUnits="userSpaceOnUse" x2="0" y2="945.36" y1="912.59">
+   <stop stop-color="#ed8246" offset="0"/>
+   <stop stop-color="#ee6d2e" offset=".683"/>
+   <stop stop-color="#ef783d" offset=".701"/>
+   <stop stop-color="#f07f48" offset="1"/>
+  </linearGradient>
+  <linearGradient id="K">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="L">
+   <stop stop-color="#ed5012" offset="0"/>
+   <stop stop-color="#bc3f0e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Q" gradientUnits="userSpaceOnUse" x2="0" y2="912.36" y1="908.36">
+   <stop stop-color="#e55016" offset="0"/>
+   <stop stop-color="#c44c1c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="M" xlink:href="#K" gradientUnits="userSpaceOnUse" y1="436.23" gradientTransform="matrix(1.0179 0 0-1-4.143 1381)" x2="0" y2="457"/>
+  <linearGradient id="O" xlink:href="#L" gradientUnits="userSpaceOnUse" y1="948.24" x2="0" y2="951.24"/>
+  <linearGradient id="Y" gradientUnits="userSpaceOnUse" x2="0" y2="60" y1="64">
+   <stop stop-color="#612d15" offset="0"/>
+   <stop stop-color="#8a3f1e" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="N" xlink:href="#K" gradientUnits="userSpaceOnUse" cy="136" cx="88" gradientTransform="matrix(1 0 0 .14286 0 116.57)" r="56"/>
+ </defs>
+ <use opacity=".2" xlink:href="#3" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128" filter="url(#H)" width="128" fill="url(#M)"/>
+ <g transform="matrix(2.6667 0 0 2.6667-554.6-2401)">
+  <path opacity=".3" fill="url(#N)" d="m144 136c0 4.418-25.07 8-56 8s-56-3.582-56-8 25.07-8 56-8 56 3.582 56 8" transform="matrix(.42857 0 0 .5 194.29 876.36)"/>
+  <use opacity=".3" xlink:href="#4" transform="matrix(.38528 0 0 .10496 198.1 931.09)" height="128" filter="url(#I)" width="128"/>
+ </g>
+ <path id="0" d="m46 13h8v12h-8z" fill="#a42b06"/>
+ <use width="128" xlink:href="#0" transform="translate(28)" height="128"/>
+ <use xlink:href="#C" transform="matrix(2.6667 0 0 2.6667-556.67-2523.7)" height="128" width="128" fill="url(#O)"/>
+ <use xlink:href="#9" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128" width="128" fill="url(#P)"/>
+ <use xlink:href="#5" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128" width="128" fill="url(#Q)"/>
+ <path d="m13.09 21.99l3 4-8 6h2l8-6-2.4-3h96.8l-2.4 3 8 6h2l-8-6 3-4z" fill="url(#R)"/>
+ <use opacity=".5" clip-path="url(#G)" xlink:href="#A" transform="matrix(2.6667 0 0 2.6667-554.6-2371)" height="128" filter="url(#J)" width="128" fill="url(#S)"/>
+ <use xlink:href="#F" transform="matrix(2.6667 0 0 2.6667-554.6-2571.7)" height="128" width="128" fill="url(#T)"/>
+ <use xlink:href="#D" transform="matrix(2.6667 0 0 2.6667-554.6-2571.7)" height="128" width="128" fill="url(#U)"/>
+ <path id="1" fill="url(#X)" d="m44.07 17.959h8v2h-8z"/>
+ <use width="128" xlink:href="#1" transform="translate(32)" height="128"/>
+ <use id="2" opacity=".4" xlink:href="#E" transform="translate(-23.927-24.04)" height="128" width="128" fill="url(#Y)"/>
+ <use width="128" xlink:href="#2" transform="translate(32)" height="128"/>
+ <g fill="#fff">
+  <use width="128" xlink:href="#6" transform="translate(-23.927-24.01)" height="128"/>
+  <use width="128" xlink:href="#7" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128"/>
+ </g>
+ <use xlink:href="#B" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128" width="128" fill="url(#V)"/>
+ <rect rx="3" height="6" width="30" y="81.991" x="42.07" fill="#e50"/>
+ <use xlink:href="#8" transform="matrix(2.6667 0 0 2.6667-554.6-2401)" height="128" width="128" fill="url(#W)"/>
+</svg>
