@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Ubuntu Logo Numix Circle</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Ubuntu Logo Numix Circle</dc:title>
+    <cc:license rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Numix Project</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source>https://github.com/numixproject/numix-icon-theme-circle/blob/master/Numix-Circle/48x48/apps/distributor-logo-ubuntu.svg</dc:source>
+    <dc:description>Optimized from the Ubuntu Distributor Logo icon in Numix Project&apos;s Circle icon theme</dc:description>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="GradientOrange" gradientUnits="userSpaceOnUse" x2="0" y2="1" y1="47">
+   <stop stop-color="#c41" offset="0"/>
+   <stop stop-color="#d41" offset="1"/>
+  </linearGradient>
+  <path id="CoF-base" d="m24 12c-6.63 0-12 5.37-12 12s5.38 12 12 12 12-5.37 12-12-5.37-12-12-12m4.13 3.33c0.26 0.01 0.52 0.07 0.75 0.21 0.77 0.45 1.03 1.43 0.59 2.19-0.44 0.77-1.42 1.02-2.18 0.58-0.77-0.45-1.03-1.42-0.59-2.19 0.3-0.53 0.86-0.82 1.43-0.8m-4.13 1.71c0.64 0 1.27 0.09 1.86 0.25 0.11 0.65 0.48 1.24 1.09 1.59s1.31 0.39 1.92 0.16c1.18 1.16 1.95 2.75 2.07 4.51l-2.28 0.04c-0.21-2.39-2.22-4.27-4.66-4.27-0.71 0-1.37 0.16-1.97 0.44l-1.11-2c0.93-0.46 1.98-0.73 3.09-0.73m-3.87 1.18l1.18 1.96c-1.2 0.85-2 2.25-2 3.83s0.79 2.98 2 3.83l-1.18 1.97c-1.4-0.94-2.44-2.38-2.88-4.05 0.51-0.41 0.83-1.04 0.83-1.74 0-0.71-0.32-1.33-0.83-1.75 0.43-1.68 1.48-3.11 2.88-4.05m-4.3 4.2c0.89 0 1.6 0.71 1.6 1.6 0 0.88-0.72 1.6-1.61 1.6s-1.6-0.72-1.6-1.6c0-0.89 0.71-1.6 1.6-1.6m12.82 2l2.29 0.04c-0.11 1.76-0.89 3.35-2.07 4.51-0.61-0.23-1.31-0.2-1.92 0.16-0.61 0.35-0.99 0.95-1.09 1.59-0.59 0.16-1.22 0.25-1.86 0.25-1.11 0-2.16-0.27-3.09-0.73l1.12-2c0.6 0.28 1.27 0.44 1.97 0.44 2.45 0 4.45-1.88 4.66-4.27m-0.62 5.1c0.57-0.01 1.13 0.28 1.43 0.81 0.45 0.77 0.18 1.75-0.59 2.19s-1.75 0.18-2.19-0.59-0.18-1.75 0.59-2.18c0.24-0.14 0.5-0.21 0.75-0.22"/>
+ </defs>
+ <circle id="roundel" cy="24" cx="24" r="23" fill="url(#GradientOrange)"/>
+ <path id="roundel-edge" opacity=".1" d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.47 0 12.7-10.3 23-23 23-5.95 0-11.38-2.26-15.47-5.97 4.18 4.29 10 6.97 16.47 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.29-6.97-16.47"/>
+ <use id="CoF-shadow" fill-opacity=".1" xlink:href="#CoF-base" transform="translate(1 1)" height="48" width="48" fill="#000000"/>
+ <use id="CoF-white" xlink:href="#CoF-base" height="48" width="48" y="0" x="0" fill="#f9f9f9"/>
+</svg>

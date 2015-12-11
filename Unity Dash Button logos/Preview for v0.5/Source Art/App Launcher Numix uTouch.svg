@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 48 48">
+<title>App Launcher Numix uTouch</title>
+<metadata>
+ <rdf:RDF>
+  <cc:Work rdf:about="">
+   <dc:format>image/svg+xml</dc:format>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <dc:title>App Launcher Numix uTouch</dc:title>
+   <cc:license rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html"/>
+   <dc:creator>
+    <cc:Agent>
+     <dc:title>Numix Project</dc:title>
+    </cc:Agent>
+   </dc:creator>
+   <dc:source>https://github.com/numixproject/numix-icon-theme-utouch/blob/master/Numix-uTouch/scalable/apps/app-launcher.svg</dc:source>
+   <dc:description>Optimized from the App Launcher icon in Numix Project&apos;s uTouch icon theme</dc:description>
+  </cc:Work>
+ </rdf:RDF>
+</metadata>
+ <defs>
+  <radialGradient id="thisWeirdIdNameFixesABug0" gradientUnits="userSpaceOnUse" cy="24" cx="24" r="23.437">
+   <stop stop-color="#FD3F92" offset="0"/>
+   <stop stop-color="#dd1f72" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path d="m47.44 11.547v24.906c0 10.25 0 10.984-10.984 10.984h-24.902c-10.988 0-10.988-0.734-10.988-10.984v-24.906c0-10.25 0-10.984 10.988-10.984h24.902c10.984 0 10.984 0.734 10.984 10.984" fill="url(#thisWeirdIdNameFixesABug0)"/>
+ <g fill="#fff">
+  <path d="m12 13h6v6h-6m0-6"/>
+  <path d="m21 13h6v6h-6m0-6"/>
+  <path d="m30 13h6v6h-6m0-6"/>
+  <path d="m12 21h6v6h-6m0-6"/>
+  <path d="m21 21h6v6h-6m0-6"/>
+  <path d="m30 21h6v6h-6m0-6"/>
+  <path d="m12 29h6v6h-6m0-6"/>
+  <path d="m21 29h6v6h-6m0-6"/>
+  <path d="m30 29h6v6h-6m0-6"/>
+  <path fill-opacity=".084967" d="m38.27 47.44c2.543-0.012 4.379-0.082 5.711-0.441l-4.23-7.25-4.484 7.691h1.191 1.813zm1.48-7.691-5.125-8.789-5.129 8.789zh7.652c0.031-0.973 0.039-2.063 0.039-3.297v-1.098l-2.563-4.395zm5.129-8.789-5.129-8.789-5.125 8.789zh2.563v-4.395zm-10.254 0-5.129-8.789-5.125 8.789zm-10.254 0-5.129 8.789h10.254zl-5.129-8.789-5.125 8.789zm-10.254 0-5.129 8.789h10.254zl-5.129-8.789-5.125 8.789zm-10.254 0-3.297 5.648c0 1.168 0.012 2.211 0.039 3.141h8.383zl-3.297-5.648v5.648zm5.125 8.789-4.313 7.395c1.598 0.293 3.809 0.297 6.879 0.297h1.922zm0-17.578-5.125-8.789-3.297 5.648v3.141zh10.254l-5.125-8.789zm5.129-8.789-5.129-8.789-5.125 8.789zh10.254l-5.129-8.789zm5.125-8.789-2.352-4.03h-5.336-0.215l-2.352 4.03zh10.254l-2.352-4.03h-5.551zm10.254 0h10.254l-2.352-4.03h-0.941-4.609zl-5.125 8.789h10.254zm5.129 8.789h10.254l-5.129-8.789zl-5.129 8.789h10.254zm5.125 8.789h7.691v-4.395l-2.563-4.395zm5.129-8.789h2.563v-1.832c0-0.914-0.008-1.75-0.023-2.523zm-15.383 8.789-5.125-8.789-5.129 8.789zm10.254-17.578h7.309c-0.555-2.758-1.887-3.629-5.03-3.902zm-30.762 0l-2.305-3.953c-3.66 0.207-5.141 0.996-5.734 3.953zm-5.125 8.789l-3.238-5.555c-0.043 1.074-0.059 2.309-0.059 3.723v1.832zm15.379 26.367-4.484 7.691h8.973zm10.254 0-4.484 7.691h8.973zm-26.898 6.621-1.602-2.746c0.293 1.316 0.785 2.18 1.602 2.746z"/>
+ </g>
+</svg>
