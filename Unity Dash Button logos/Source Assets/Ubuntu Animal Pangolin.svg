@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="182" width="182" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 182 182">
- <title>Ubuntu Precise Pangolin</title>
+ <title>Ubuntu Animal Pangolin</title>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Ubuntu Precise Pangolin</dc:title>
-    <dc:description>Part of Unity Dash Button logos: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
+    <dc:title>Ubuntu Animal Pangolin</dc:title>
+    <dc:description>Derived from Precise Plain logo. Part of Unity Dash Button logos: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
     <dc:source>https://wiki.ubuntu.com/Artwork/Incoming/Precise</dc:source>
     <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
    </cc:Work>

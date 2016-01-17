@@ -14,12 +14,45 @@
    height="1600"
    width="1200"
    inkscape:version="0.91 r"
-   sodipodi:docname="Dash Button logos v0.5 Preview.svg"
-   inkscape:export-filename="Dash Button logos v0.5 Preview.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <title
-     id="title6320">Dash Button logos v0.5 Preview</title>
+     id="title6320">Dash Button logos Preview</title>
+  <metadata
+    id="metadata2990">
+   <rdf:RDF>
+     <cc:Work
+        rdf:about="">
+       <dc:format>image/svg+xml</dc:format>
+       <dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+       <dc:title>Dash Button logos Preview</dc:title>
+       <cc:license
+          rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+       <dc:creator>
+         <cc:Agent>
+           <dc:title>HEXcube</dc:title>
+         </cc:Agent>
+       </dc:creator>
+       <dc:description>Preview image for Ubuntu Unity Dash Button logos modpack: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
+     </cc:Work>
+     <cc:License
+        rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+       <cc:permits
+          rdf:resource="https://creativecommons.org/ns#Reproduction" />
+       <cc:permits
+          rdf:resource="https://creativecommons.org/ns#Distribution" />
+       <cc:requires
+          rdf:resource="https://creativecommons.org/ns#Notice" />
+       <cc:requires
+          rdf:resource="https://creativecommons.org/ns#Attribution" />
+       <cc:permits
+          rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+       <cc:requires
+          rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+     </cc:License>
+   </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -4732,41 +4765,6 @@
          y="97" />
     </mask>
   </defs>
-  <metadata
-     id="metadata2990">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Dash Button logos v0.5 Preview</dc:title>
-        <cc:license
-           rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>HEXcube</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:description>A preview image for my logo pack targeting Ubuntu Unity's Dash Button: https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437</dc:description>
-      </cc:Work>
-      <cc:License
-         rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="https://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="https://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="https://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="https://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="https://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer3"

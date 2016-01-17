@@ -1,8 +1,8 @@
-Previews for old versions of Unity Dash Button logos
-====================================================
-- Used as preview images for [Unity Dash Button logos][dash-button-logos] version 0.4 and older
-- [Dash Button logos v0.2 Preview][preview], [Prototype Preview 2][protopreview2] and [Prototype Preview 1][protopreview1] by [akhilkay][akhilkay]
-- [Prototype Preview 0][protopreview0] by [HEXcube][hexcube]
+Previews for Unity Dash Button logos v0.4 and older
+===================================================
+- `Dash Button logos v0.2 Preview`, `Prototype Preview 2` and `Prototype Preview 1` by [akhilkay][akhilkay] are licensed under [CC BY-SA][CC-BY-SA]
+- `Prototype Preview 0` by [HEXcube][hexcube] is licensed under [CC BY-SA][CC-BY-SA]
+- The source, creator and license of each artwork used for creating these preview images are listed below
 
 Icon Sources and their licenses
 -------------------------------
@@ -16,11 +16,6 @@ Icon Sources and their licenses
 - [Ubuntu][ubuntu-website] is a registered trademark of [Canonical Ltd.][canonical-website]
 
 
-[dash-button-logos]:  https://hexcube.deviantart.com/art/Unity-Dash-Button-logos-Ubuntu-14-04-and-12-04LTS-468721437 "Dash Button logos on DeviantArt"
-[preview]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Dash%20Button%20logos%20v0.2%20Preview.jpg "Dash Button logos v0.2 Preview"
-[protopreview2]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%202.jpg "Prototype Preview 2"
-[protopreview1]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%201.jpg "Prototype Preview 1"
-[protopreview0]: https://github.com/HEXcube/Prototypes/blob/master/Unity%20Dash%20Button%20logos/Preview%20for%20older%20versions/Prototype%20Preview%200.png "Prototype Preview 0"
 [moka-logo]: https://github.com/moka-project/moka-icon-theme/blob/master/src/M/moka.svg "Moka Logo's source svg file"
 [moka-icon-pack]: http://samuelhewitt.com/moka/ "Moka Project's homepage"
 [nitrux-icon-pack]: https://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
