@@ -72,7 +72,7 @@ Ubuntu trademark and logos
 [ubuntu-fonts]: http://font.ubuntu.com "Ubuntu Fonts homepage"
 [ubuntu-logo]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_su-white-hex.svg "Ubuntu logo for small use White"
 
-[hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
+[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [bokehlicia]: https://github.com/fsvh "Francisco Villarroel's GitHub page"
 [0rax0]: https://github.com/0rAX0 "Reda Lazri's GitHub page"
 [mozilla]: https://mozilla.org "Mozilla website"

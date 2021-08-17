@@ -28,7 +28,7 @@ Icon Sources and their licenses
 [ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt page"
-[hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
+[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [snwh]: http://samuelhewitt.com "Sam Hewitt's website"
 [nitrux]: https://nitrux.in "Nitrux S.A.'s website"
 [numix]: https://numixproject.org "Numix Project's website"

@@ -40,7 +40,7 @@ Ubuntu trademark and logos
 [ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"
 [ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 
-[hexcube]: https://hexcube.deviantart.com "HEXcube's DeviantArt page"
+[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt profile"
 [numix]: https://numixproject.org "Numix Project's website"
 [mozilla]: https://mozilla.org "Mozilla website"
