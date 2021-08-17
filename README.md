@@ -29,8 +29,8 @@ if you use anything from here, don't forget to credit the original creators.
 
 
 [inkscape]: https://inkscape.org "Link to Inkscape's homepage"
-[gimp]: https://www.gimp.org "Link to GIMP's homepage"
-[timelapse]: https://www.youtube.com/user/SKypH3R "Cameron Bohnstedt's YouTube page"
+[gimp]: https://gimp.org "Link to GIMP's homepage"
+[timelapse]: https://youtube.com/user/SKypH3R "Cameron Bohnstedt's YouTube page"
 [skypher]: https://skypher.deviantart.com "Cameron Bohnstedt's DeviantArt page"
 [gnome-mockups]: https://github.com/gnome-design-team/gnome-mockups "Link to Gnome Mockups GitHub repo"
 [gnome-design]: https://wiki.gnome.org/Design "GNOME Design webpage"
@@ -39,7 +39,7 @@ if you use anything from here, don't forget to credit the original creators.
 [solus-mockups]: https://github.com/solus-project/mockups "Solus Project's Mockups GitHub repo"
 [solus-project]: https://solus-project.com "Solus Project website"
 [snwh-mockups]: https://github.com/snwh/mockups "Sam Hewitt's Mockups GitHub repo"
-[snwh]: http://samuelhewitt.com "Sam Hewitt's website"
+[snwh]: https://samuelhewitt.com "Sam Hewitt's website"
 [gnome-concepts]: https://github.com/0rAX0/gnome-concepts "Link to GNOME Concepts GitHub repo"
 [0rax0]: https://0rax0.deviantart.com "Reda Lazri's DeviantArt page"
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/ "More info on CC BY-SA"

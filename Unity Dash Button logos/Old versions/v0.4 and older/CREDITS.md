@@ -17,7 +17,7 @@ Icon Sources and their licenses
 
 
 [moka-logo]: https://github.com/moka-project/moka-icon-theme/blob/master/src/M/moka.svg "Moka Logo's source svg file"
-[moka-icon-pack]: http://samuelhewitt.com/moka/ "Moka Project's homepage"
+[moka-icon-pack]: https://snwh.org/moka "Moka Project's homepage"
 [nitrux-icon-pack]: https://deviantn7k1.deviantart.com/art/Nitrux-293634207 "Nitrux icon pack on DeviantArt"
 [numix-logo-legacy]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-logo-legacy.svg "Numix's old logo"
 [numix-super-logo]: https://github.com/numixproject/numix-assets/blob/master/legacy/numix-super-new-logo-numix.svg "Numix's old logotype"
@@ -29,16 +29,16 @@ Icon Sources and their licenses
 
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt page"
 [hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
-[snwh]: http://samuelhewitt.com "Sam Hewitt's website"
+[snwh]: https://samuelhewitt.com "Sam Hewitt's website"
 [nitrux]: https://nitrux.in "Nitrux S.A.'s website"
 [numix]: https://numixproject.org "Numix Project's website"
 [tiheum]: https://tiheum.deviantart.com "Matthieu James' DeviantArt page"
 [malys]: https://malysss.deviantart.com "Malys's DeviantArt page"
-[ubuntu-website]: http://www.ubuntu.com "Ubuntu website"
-[canonical-website]: http://www.canonical.com "Canonical website"
+[ubuntu-website]: https://ubuntu.com "Ubuntu website"
+[canonical-website]: https://canonical.com "Canonical website"
 
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/ "More info on CC BY-SA 4.0"
 [CC-BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/ "More info on CC BY-NC-ND 4.0"
-[GPL]: https://www.gnu.org/licenses/gpl-3.0.en.html "More info on GNU GPLv3"
-[LGPL]: https://www.gnu.org/licenses/lgpl-3.0.en.html "More info on GNU Lesser GPLv3"
-[IPpolicy]: http://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy "Canonical's Intellectual Property rights policy"
+[GPL]: https://gnu.org/licenses/gpl-3.0.en.html "More info on GNU GPLv3"
+[LGPL]: https://gnu.org/licenses/lgpl-3.0.en.html "More info on GNU Lesser GPLv3"
+[IPpolicy]: https://ubuntu.com/legal/intellectual-property-policy "Canonical's Intellectual Property rights policy"
