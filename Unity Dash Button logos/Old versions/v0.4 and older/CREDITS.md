@@ -1,7 +1,7 @@
 Previews for Unity Dash Button logos v0.4 and older
 ===================================================
 - `Dash Button logos v0.2 Preview`, `Prototype Preview 2` and `Prototype Preview 1` by [akhilkay][akhilkay] are licensed under [CC BY-SA][CC-BY-SA]
-- `Prototype Preview 0` by [HEXcube][hexcube] is licensed under [CC BY-SA][CC-BY-SA]
+- `Prototype Preview 0` by [HEXcube][HEXcube] is licensed under [CC BY-SA][CC-BY-SA]
 - The source, creator and license of each artwork used for creating these preview images are listed below
 
 Icon Sources and their licenses
@@ -28,7 +28,7 @@ Icon Sources and their licenses
 [ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt page"
-[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
+[HEXcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [snwh]: https://samuelhewitt.com "Sam Hewitt's website"
 [nitrux]: https://nitrux.in "Nitrux S.A.'s website"
 [numix]: https://numixproject.org "Numix Project's website"

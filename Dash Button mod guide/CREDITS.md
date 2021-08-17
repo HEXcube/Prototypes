@@ -1,6 +1,6 @@
 Dash Button mod guide
 =====================
-`Change logo in Dash Button` and `Dash Button in Unity Launcher` by [HEXcube][hexcube] are licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each component used in the creation of this artwork are listed below.
+`Change logo in Dash Button` and `Dash Button in Unity Launcher` by [HEXcube][HEXcube] are licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each component used in the creation of this artwork are listed below.
 
 Background and Arrow
 --------------------
@@ -40,7 +40,7 @@ Ubuntu trademark and logos
 [ubuntu-logo-orange]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_cof-orange-hex.svg "Ubuntu Circle of Friends Orange"
 [ubuntu-design-logos]: https://design.ubuntu.com/brand/ubuntu-logo "Guidelines regarding use of Ubuntu Brand and Logo"
 
-[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
+[HEXcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [akhilkay]: https://akhilkay.deviantart.com "akhilkay's DeviantArt profile"
 [numix]: https://numixproject.org "Numix Project's website"
 [mozilla]: https://mozilla.org "Mozilla website"

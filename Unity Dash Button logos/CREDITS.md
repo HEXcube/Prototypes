@@ -1,6 +1,6 @@
 Preview for Unity Dash Button logos
 ===================================
-`Dash Button logos Preview` by [HEXcube][hexcube] is  licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each artwork used for creating this preview image are listed below.
+`Dash Button logos Preview` by [HEXcube][HEXcube] is  licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each artwork used for creating this preview image are listed below.
 
 Backgrounds, Display Frame and Titles
 -------------------------------------
@@ -72,7 +72,7 @@ Ubuntu trademark and logos
 [ubuntu-fonts]: https://design.ubuntu.com/font/ "Ubuntu Fonts homepage"
 [ubuntu-logo]: https://design.ubuntu.com/wp-content/uploads/logo-ubuntu_su-white-hex.svg "Ubuntu logo for small use White"
 
-[hexcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
+[HEXcube]: https://deviantart.com/HEXcube "HEXcube's DeviantArt page"
 [bokehlicia]: https://github.com/fsvh "Francisco Villarroel's GitHub page"
 [0rax0]: https://github.com/0rAX0 "Reda Lazri's GitHub page"
 [mozilla]: https://mozilla.org "Mozilla website"
