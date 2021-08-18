@@ -1,5 +1,5 @@
-Dash Button mod guide
-=====================
+Ubuntu Unity Dash Button mod guide
+==================================
 `Change logo in Dash Button` and `Dash Button in Unity Launcher` by [HEXcube][HEXcube] are licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each component used in the creation of this artwork are listed below.
 
 Background and Arrow

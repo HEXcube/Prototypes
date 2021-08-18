@@ -1,6 +1,6 @@
-Preview for Unity Dash Button logos
-===================================
-`Dash Button logos Preview` by [HEXcube][HEXcube] is  licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each artwork used for creating this preview image are listed below.
+Preview for Ubuntu Unity Dash Button logos
+==========================================
+`Dash Button logos Preview` by [HEXcube][HEXcube] is licensed under [CC BY-SA][CC-BY-SA]. The source, creator and license of each artwork used for creating this preview image are listed below.
 
 Backgrounds, Display Frame and Titles
 -------------------------------------

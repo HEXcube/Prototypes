@@ -1,5 +1,5 @@
-Previews for Unity Dash Button logos v0.4 and older
-===================================================
+Previews for Ubuntu Unity Dash Button logos v0.4 and older
+==========================================================
 - `Dash Button logos v0.2 Preview`, `Prototype Preview 2` and `Prototype Preview 1` by [akhilkay][akhilkay] are licensed under [CC BY-SA][CC-BY-SA]
 - `Prototype Preview 0` by [HEXcube][HEXcube] is licensed under [CC BY-SA][CC-BY-SA]
 - The source, creator and license of each artwork used for creating these preview images are listed below
