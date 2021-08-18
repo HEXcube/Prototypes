@@ -1,7 +1,6 @@
 Prototypes
 ==========
-UI Prototypes, App Mockups, Wireframes, Previews and other art assets for the
-projects I work on.
+UI prototypes, app mockups and wireframes for the projects I work on.
 
 ### HOW TO USE
 I do my mockups in SVG format with [Inkscape][inkscape] vector graphics editor.
@@ -26,6 +25,11 @@ However, most of the work here are derivatives and as a result follow the
 licenses of their original sources. I've included a `CREDITS.md` file with
 each artwork to attribute the original authors and license of each source. So,
 if you use anything from here, don't forget to credit the original creators.
+
+### PREVIEWS
+![Dash Button logos Preview](Ubuntu%20Unity%20Dash%20Button%20logos%20preview/Dash%20Button%20logos%20Preview.jpg)
+
+![Dash Button logos v0.2 Preview](Ubuntu%20Unity%20Dash%20Button%20logos%20old%20previews/Dash%20Button%20logos%20v0.2%20Preview.jpg)
 
 
 [inkscape]: https://inkscape.org "Link to Inkscape's homepage"
