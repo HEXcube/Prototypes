@@ -10,7 +10,7 @@
     <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
     <dc:creator>
      <cc:Agent>
-      <dc:title>HEXcube</dc:title>
+      <dc:title>Rohan Villoth</dc:title>
      </cc:Agent>
     </dc:creator>
     <dc:description>Image to show the position of Dash Button in Unity Launcher. Used in the AskUbuntu question https://askubuntu.com/questions/68612/how-to-change-the-dash-button-in-unity-launcher</dc:description>
